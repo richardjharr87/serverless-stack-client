@@ -1,4 +1,7 @@
 export default {
+
+    MAX_ATTACHMENT_SIZE: 5000000,
+    STRIPE_KEY: "pk_test_51H2QM5CvASW4DVNhE5VES1zZprqUzw7k4DnQWCkoE6IiO2o1UolVmu5MUODBq0Ep1zj0PSXlwrEyWpL5j8cKDluH003uPswbrU",
     s3: {
       REGION: "us-east-1",
       BUCKET: "richard-harrington-notes-app-uploads"
